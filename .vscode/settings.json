@@ -1,0 +1,12 @@
+{
+   "workbench.colorCustomizations": {
+      "errorLens.errorBackground": "#00000000",
+      "errorLens.warningBackground": "#ff000000",
+      "errorLens.infoBackground": "#ff000000",
+      "errorLens.hintBackground": "#ff000000",
+      "errorLens.gutterIconsEnabled": true,
+      "activityBar.background": "#2F2C37",
+      "titleBar.activeBackground": "#423D4D",
+      "titleBar.activeForeground": "#FAFAFB"
+   }
+}
