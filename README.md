@@ -31,11 +31,11 @@
 ---
 
 <p align="center">
-  <a href="#dart-sobre">About</a> &#xa0; | &#xa0; 
-  <a href="#rocket-tecnologias">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requerimentos">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-começando">Starting</a> &#xa0; &#xa0; | &#xa0;
-  <a href="#framed_picture-imagens">Images</a> &#xa0; &#xa0;
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; &#xa0; | &#xa0;
+  <a href="#framed_picture-images">Images</a> &#xa0; &#xa0;
 </p>
 
 <br>
