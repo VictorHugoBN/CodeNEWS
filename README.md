@@ -9,8 +9,6 @@
   <br>
   <br>
 
-  <img alt="Language count" src="https://img.shields.io/github/repo-size/khalleb/ignews"/>
-
   <a href="https://rocketseat.com.br">
     <img alt="Inspired by Rocketseat" src="https://img.shields.io/badge/inspired%20by-Rocketseat-blue">
   </a>
