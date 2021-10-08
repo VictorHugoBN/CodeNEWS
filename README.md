@@ -70,7 +70,7 @@ The following technologies were used in the project:
 
 ```bash
 # Clone this project
-$ git clone https://github.com/khalleb/ignews
+$ git clone https://github.com/VictorHugoBN/CodeNEWS
 
 # Access
 $ cd ignews
