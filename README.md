@@ -14,7 +14,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/dev-victor-nascimento">
-    <img alt="Made by Victor" src="https://img.shields.io/badge/made%20by-made%20by%20victor-blue">
+    <img alt="Made by Victor" src="https://img.shields.io/badge/made%20by-Victor%20-blue">
   </a>
 
   <a href="https://nextjs.org/">
