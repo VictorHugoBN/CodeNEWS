@@ -40,7 +40,7 @@
 
 <br>
 
-## :dart: Sobre
+## :dart: About
 
 The CodeNEWS project is a blog where users can access the content of each post according to their subscription status.<br>
 The blog has a purchase system integrated with STRIPE, and after the user makes the payment, their subscription will be active and ready to view the full content
@@ -52,7 +52,7 @@ This is a Serverless application, that is, the entire process that would depend 
 <br>
 Posts are made via the Prismic CMS dashboard and integrated directly from the front.
 
-## :rocket: Tecnologias
+## :rocket: Technologies
 
 The following technologies were used in the project:
 
@@ -61,12 +61,12 @@ The following technologies were used in the project:
 -  [Stripe](https://stripe.com/)
 -  [FaunaDB](https://fauna.com/)
 
-## :white_check_mark: Requerimentos
+## :white_check_mark: Requirements
 
 -  [Node](https://nodejs.org/en/)
 -  [Yarn](https://yarnpkg.com/lang/en/)
 
-## :checkered_flag: Começando
+## :checkered_flag: Starting
 
 ```bash
 # Clone this project
@@ -84,4 +84,4 @@ $ yarn dev
 # The server will initialize in the <http://localhost:3000>
 ```
 
-## :framed_picture: Imagens
+## :framed_picture: Images
